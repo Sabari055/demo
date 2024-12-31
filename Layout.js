@@ -42,6 +42,10 @@ const Layout = () => {
         </ul>
       </aside>
 
+      {/* sri changes */}
+      {/* sri changes */}
+      {/* sri changes */}
+
       <main className="main-content">
         <div className="navbar">
           <input className="navbar-search" type="text" placeholder="Search Settings" />
