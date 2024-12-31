@@ -45,10 +45,9 @@ const Layout = () => {
       {/* sri changes */}
       {/* sri changes */}
       {/* sri changes */}
-  {/* sri changes */}
-      {/* sri changes */}
-      {/* sri changes */}
-
+  {/* sudev changes */}
+  {/* sudev changes */}
+     
       <main className="main-content">
         <div className="navbar">
           <input className="navbar-search" type="text" placeholder="Search Settings" />
