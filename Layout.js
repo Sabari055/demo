@@ -45,6 +45,9 @@ const Layout = () => {
       {/* sri changes */}
       {/* sri changes */}
       {/* sri changes */}
+  {/* sri changes */}
+      {/* sri changes */}
+      {/* sri changes */}
 
       <main className="main-content">
         <div className="navbar">
